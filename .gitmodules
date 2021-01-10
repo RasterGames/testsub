@@ -1,4 +1,4 @@
 [submodule "submod"]
 	path = submod
 	url = https://github.com/rasteron/submod.git
-	branch = gh-pages
+	branch = pages
